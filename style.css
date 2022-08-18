@@ -688,7 +688,6 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto;
-    color: white;
 }
 
 .text-center{
@@ -784,8 +783,12 @@ h4 {
     background-color: #F3976C;
 }
 
-.tc-white {
+.tc-white h1 {
     color: #F3976C!important;
+}
+
+.tc-white p{
+    color: #FFF;
 }
 
 .btn-atomic-tangerine {
