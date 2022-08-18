@@ -677,7 +677,12 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
+}
+
+.row voffset-lg voffset p{
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .tight-width-whitespace {
@@ -710,7 +715,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -797,7 +802,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #f3976c4e!important;
 }
 
 .ltc-atomic-tangerine:hover {
