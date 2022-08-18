@@ -688,6 +688,7 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto;
+    color: white;
 }
 
 .text-center{
