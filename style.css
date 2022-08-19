@@ -510,6 +510,15 @@ button {
     box-shadow: none;
 }
 
+.form-control{
+    display: block;
+    width: 50%;
+    height: 30px;
+    padding: 10px 10px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+
 .scrollToTop {
     width: 40px;
     height: 40px;
