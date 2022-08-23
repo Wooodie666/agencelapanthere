@@ -443,6 +443,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    background-color: #FFFFFF;
 }
 
 .mg-lg {
@@ -809,7 +810,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #f87f48;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
