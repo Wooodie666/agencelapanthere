@@ -522,11 +522,12 @@ button {
 
 .form-control{
     display: block;
-    width: 50%;
+    width: 92%;
     height: 30px;
     padding: 10px 10px;
     border: 1px solid #cccccc;
     border-radius: 4px;
+    margin: 7px;
 }
 
 .scrollToTop {
@@ -725,7 +726,7 @@ p {
     padding: 12px 28px 12px 28px;
     font-size: 16px;
     font-weight: 700;
-    width: 23%;
+    width: 40%;
 }
 
 .social {
