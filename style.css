@@ -443,7 +443,6 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
-    background-color: #FFFFFF;
 }
 
 
@@ -754,7 +753,7 @@ h3 {
 }
 
 h1 {
-    color: #f87f48!important;
+    color: #ec450e!important;
 }
 
 h4 {
@@ -767,7 +766,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black!important;
     font-size: 17px;
 }
 
