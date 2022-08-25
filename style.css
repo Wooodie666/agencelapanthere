@@ -675,10 +675,6 @@ a {
     color: #080808!important;
 }
 
-.mg-md .text-center .tc-white h2{
-    background-color: #eee4e4;
-}
-
 .container {
     max-width: 1000px;
 }
@@ -742,6 +738,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    background-color: white;
 }
 
 h3 {
@@ -811,8 +808,9 @@ h4 {
 }
 
 .tc-white h1 {
-    color: #f87f48!important;
+    color: black!important;
 }
+
 
 .tc-white p{
     color: #FFF;
@@ -847,6 +845,9 @@ h4 {
 .icon-dark-slate-blue {
     color: #364577!important;
     border-color: #364577!important;
+}
+.portfolio-row img{
+    width: 100%;
 }
 
 .bg-dots-bg {
