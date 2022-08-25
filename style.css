@@ -674,6 +674,10 @@ a {
     color: #080808!important;
 }
 
+.tc-white h2{
+    color: white!important;
+}
+
 .container {
     max-width: 1000px;
 }
@@ -753,7 +757,7 @@ h3 {
 }
 
 h1 {
-    color: #ec450e!important;
+    color: white!important;
 }
 
 h4 {
